@@ -1,34 +1,26 @@
 # Deshabhi Ranaweera.
-*System Architect. Founder. Visionary.*
+*System Architect | Founder*
 
-> "Simplicity is the ultimate sophistication."
+> "Design is not just what it looks like and feels like. Design is how it works."
 
-I engineer systems that scale and design architectures that define the future. My focus isn't just on writing code—it's on crafting flawless, high-performance infrastructures where complex technology meets human intuition.
+I am deeply passionate about what happens behind the screen. As an architect, my focus is on building highly scalable, custom multi-tenant systems that are secure, efficient, and cost-optimized. 
 
-## The Architecture
+For me, a system's true power lies in its core engine—giving users a flawless experience while keeping the complex infrastructure running smoothly underneath.
 
-*   **System Design:** Architecting highly scalable, multi-tenant SaaS ecosystems tailored for enterprise growth.
-*   **The Frontend & Client Experience:** Crafting fluid, intuitive user interfaces and cross-platform applications utilizing **React**, **TypeScript**, and **Electron.js**.
-*   **The Backend Engine:** Engineering robust, secure data pipelines and APIs powered by **Node.js**, **Laravel**, **Java**, and **Python**, supported by solid **PostgreSQL** and **MySQL** database architectures.
+## Core Engineering 
+
+*   **Custom Architectures:** Designing robust, multi-tenant enterprise ecosystems from the ground up.
+*   **Cost-Optimized Scaling:** Engineering systems that scale seamlessly—from cost-effective shared environments to advanced **Microsoft Azure** and **Oracle Cloud** infrastructures.
+*   **Full-Stack Precision:** Architecting both the frontend experience and backend logic utilizing React, TypeScript, Java, Node.js, Python, and Laravel.
 
 ## The Work
 
-I build platforms, not just applications. Here are the core systems I have architected and brought to life:
+Here are some of the core platforms I have had the opportunity to architect and build:
 
-*   **[Oridil OS & POS](https://oridilos.org/)** — *Chief Architect & Founder*
-    Designed the complete system architecture for a massive, multi-tenant enterprise operating system and Point-of-Sale ecosystem. 
-    *(Discover more: [Oridil Technologies](https://oridil.com/))*
-
-*   **[Patavi Consulting & AI Portal](https://pataviconsulting.com/)** — *Lead Architect & Core Developer*
-    Engineered the complete digital infrastructure. From crafting their primary corporate website to architecting an advanced, AI-driven business portal, seamlessly integrating complex workflows with intelligent automation.
-
-*   **[Aqlora](https://www.aqlora.com/)** — *Platform Engineering*
-    Engineered robust digital infrastructure and seamless web experiences for enterprise bookkeeping and financial services.
-
-## The Foundation
-
-**System Architecture • TypeScript • React • Node.js • Java • Python • Laravel • PostgreSQL**
+*   **[Oridil OS & POS](https://oridilos.org/)** — Architected a custom multi-tenant enterprise operating system and Point-of-Sale ecosystem. *(Powered by [Oridil Technologies](https://oridil.com/))*
+*   **[Patavi Consulting & AI Portal](https://pataviconsulting.com/)** — Engineered their complete digital infrastructure and advanced business portal.
+*   **[Aqlora](https://www.aqlora.com/)** — Developed secure web platforms and digital infrastructures for financial services.
 
 ---
-Let's build the future. 
+Always open to discussing system architecture, clean code, or new tech ventures. 
 [LinkedIn](https://www.linkedin.com/in/deshabhi00/) • [Oridil Technologies](https://oridil.com/)

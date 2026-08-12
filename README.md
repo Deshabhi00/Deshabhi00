@@ -1,26 +1,34 @@
 # Deshabhi Ranaweera.
-*Engineer. Founder. Visionary.*
+*System Architect. Founder. Visionary.*
 
-> "Design is not just what it looks like and feels like. Design is how it works." 
+> "Simplicity is the ultimate sophistication."
 
-I don't just write code; I architect systems that solve real human problems. 
-At the intersection of software engineering and artificial intelligence, I focus on creating scalable, secure, and intuitive digital experiences.
+I engineer systems that scale and design architectures that define the future. My focus isn't just on writing code—it's on crafting flawless, high-performance infrastructures where complex technology meets human intuition.
 
-## The Craft
+## The Architecture
 
-*   **Architecture & Scale:** Designing robust SaaS and multi-tenant platforms built for the future.
-*   **Perfection in Code:** Precision matters. I believe in clean, well-architected foundations, utilizing Bootstrap and meticulously crafted Custom CSS for pixel-perfect user interfaces.
-*   **Security:** Building with trust. Ensuring systems are deeply fortified against modern vulnerabilities.
+*   **System Design:** Architecting highly scalable, multi-tenant SaaS ecosystems tailored for enterprise growth.
+*   **The Frontend & Client Experience:** Crafting fluid, intuitive user interfaces and cross-platform applications utilizing **React**, **TypeScript**, and **Electron.js**.
+*   **The Backend Engine:** Engineering robust, secure data pipelines and APIs powered by **Node.js**, **Laravel**, **Java**, and **Python**, supported by solid **PostgreSQL** and **MySQL** database architectures.
 
 ## The Work
 
-*   **Oridil Technologies** — Founder. Crafting the next generation of digital identity and technology solutions.
-*   **Scam Checker AI** — Leveraging Laravel & the WhatsApp Cloud API to protect users in real-time.
-*   **Saheli Foundation** — Empowering communities by transforming their digital presence.
+I build platforms, not just applications. Here are the core systems I have architected and brought to life:
+
+*   **[Oridil OS & POS](https://oridilos.org/)** — *Chief Architect & Founder*
+    Designed the complete system architecture for a massive, multi-tenant enterprise operating system and Point-of-Sale ecosystem. 
+    *(Discover more: [Oridil Technologies](https://oridil.com/))*
+
+*   **[Patavi Consulting & AI Portal](https://pataviconsulting.com/)** — *Lead Architect & Core Developer*
+    Engineered the complete digital infrastructure. From crafting their primary corporate website to architecting an advanced, AI-driven business portal, seamlessly integrating complex workflows with intelligent automation.
+
+*   **[Aqlora](https://www.aqlora.com/)** — *Platform Engineering*
+    Engineered robust digital infrastructure and seamless web experiences for enterprise bookkeeping and financial services.
 
 ## The Foundation
 
-*Laravel • PostgreSQL • Bootstrap • Artificial Intelligence*
+**System Architecture • TypeScript • React • Node.js • Java • Python • Laravel • PostgreSQL**
 
 ---
-[Connect on LinkedIn](https://www.linkedin.com/in/deshabhi00/) • [Explore Oridil Technologies](https://oridil.com/)
+Let's build the future. 
+[LinkedIn](https://www.linkedin.com/in/deshabhi00/) • [Oridil Technologies](https://oridil.com/)

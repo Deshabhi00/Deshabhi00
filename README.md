@@ -23,4 +23,4 @@ At the intersection of software engineering and artificial intelligence, I focus
 *Laravel • PostgreSQL • Bootstrap • Artificial Intelligence*
 
 ---
-[Connect on LinkedIn](#) • [Explore Oridil Technologies](#)
+[Connect on LinkedIn](https://www.linkedin.com/in/deshabhi00/) • [Explore Oridil Technologies](https://oridil.com/)
